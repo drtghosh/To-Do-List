@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: "function calculateExp(numbers){\n    let result = ...   \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16636#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 30 Nov 2021 17:49:58 UTC
+record: -1

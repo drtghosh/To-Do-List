@@ -1,0 +1,28 @@
+content:
+- Boolean and logical operators
+- setTimeout and setInterval
+- Null and Undefined
+- Increment and decrement
+- Comparison operators
+- Conditional operators
+- Introduction to Promises
+- then ,  catch  and  finally  methods
+- Anonymous function
+- Arrow functions
+- Introduction to arrays
+- While loops
+- Switch
+- Array creation
+- For loops
+- Break and continue
+- Scope of variables
+- Naming variables
+- Object methods and keyword  this
+- Template literals
+- Function constructor
+- ForEach method
+- Array sorting
+- Array slicing
+- Array reducing
+- Object iterator
+- Array transforming

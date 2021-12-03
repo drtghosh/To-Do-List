@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: let arr = [2, 0, 100, 54, 66, 38];
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16157#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 30 Nov 2021 10:23:56 UTC
+record: -1

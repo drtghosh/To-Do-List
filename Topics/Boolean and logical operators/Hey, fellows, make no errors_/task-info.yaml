@@ -1,0 +1,13 @@
+type: code
+custom_name: Hey, fellows, make no errors!
+files:
+- name: main.js
+  visible: true
+  text: console.log(!(!false && true) || !!false & & true);
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8477#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 26 Nov 2021 07:30:14 UTC
+record: -1

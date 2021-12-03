@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    function parentheses(string) {
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16371#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 30 Nov 2021 11:11:05 UTC
+record: -1

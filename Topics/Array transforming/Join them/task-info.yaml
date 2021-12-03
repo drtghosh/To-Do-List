@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    function joinThem(words) {
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16912#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 01 Dec 2021 07:13:00 UTC
+record: -1
