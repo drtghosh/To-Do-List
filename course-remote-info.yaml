@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/531589/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Fri, 03 Dec 2021 09:31:31 UTC
+update_date: Fri, 03 Dec 2021 17:35:40 UTC
 stages:
 - id: 927
   step: 13194
@@ -59,6 +59,44 @@ topics:
     theory_id: 7527
   - title: CSS Selectors
     theory_id: 7738
+  - title: Lists
+    theory_id: 8178
+  - title: Comments
+    theory_id: 7730
+  - title: Border
+    theory_id: 8355
+  - title: List style
+    theory_id: 11645
+  - title: Absolute units
+    theory_id: 10605
+  - title: Relative units
+    theory_id: 10671
+  - title: Width and height
+    theory_id: 8325
+  - title: Margin and padding
+    theory_id: 8346
+  - title: Position
+    theory_id: 11581
+  - title: Float
+    theory_id: 12697
+  - title: Clear
+    theory_id: 12705
+  - title: Introduction to Flexbox
+    theory_id: 11760
+  - title: Orientation and display order
+    theory_id: 11768
+  - title: Flexibility, growth and contraction ratio
+    theory_id: 11776
+  - title: Axis alignment
+    theory_id: 11784
+  - title: Colors
+    theory_id: 7973
+  - title: Background
+    theory_id: 11670
+  - title: Web development
+    theory_id: 13931
+  - title: RGB
+    theory_id: 8819
   1:
   - title: Connecting JS to HTML
     theory_id: 7510
